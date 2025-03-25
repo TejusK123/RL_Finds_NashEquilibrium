@@ -1,5 +1,5 @@
 # RL_Finds_NashEquilibrium
-Reinforcement Learning to find Nash_Equilibrium of Simple Games
+Reinforcement Learning to find Nash Equilibrium of Simple Games
 
 
 ## Current Games:
